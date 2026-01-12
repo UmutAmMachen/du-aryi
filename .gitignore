@@ -1,0 +1,10 @@
+build/
+<<<<<<< HEAD
+.DS_Store
+.vscode/
+=======
+mini-test
+ohne-test
+src/messung.txt
+.DS_Store
+>>>>>>> main
